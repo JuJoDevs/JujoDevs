@@ -1,16 +1,46 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Juan José Bonillo 👋</h1>
+</div>
+<img src="https://i.imgur.com/PAIWWLA.png">
 
-<!--
-**JuJoDevs/JujoDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- 📲 Junior Mobile developer (Kotlin, Java)
+- Estudiando todos los días para sacar las mejores apps nativas
+- Con intención de aprender también iOS
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conocimientos a destacar
+
+- Clean Architecture (o al menos se intenta)
+- Room
+- Retrofit
+- Corrutinas
+- MVVM
+- LiveData (Deprecated)
+- Flows
+- ViewBinding
+- Dagger Hilt
+- Git
+- Compose
+<br>
+
+## En proceso de aprendizaje
+
+- Testing
+- Firebase
+- AdMob
+
+<br>
+
+## Otros repositorios
+- <a href="https://github.com/JBonilloArray">JBonilloArray</a>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/JuJoDevs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuJoDevs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuJoDevs&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
