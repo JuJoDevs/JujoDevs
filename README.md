@@ -1,35 +1,31 @@
 <div align="center">
 <h1 align="center">Hola, soy Juan José Bonillo 👋</h1>
 </div>
-<img src="https://i.imgur.com/PAIWWLA.png">
+<img src="https://imgur.com/DE8EANX">
 
 ## Sobre mi
 
-- 📲 Junior Mobile developer (Kotlin, Java)
+- 📲 Android Developer (Kotlin)
 - Estudiando todos los días para sacar las mejores apps nativas
 - Con intención de aprender también iOS
 <br>
 
 ## Conocimientos a destacar
 
-- Clean Architecture (o al menos se intenta)
+- Clean Architecture
+- Android lifecycle
+- Jetpack Compose
+- MVVM
 - Room
 - Retrofit
-- Corrutinas
-- MVVM
-- LiveData (Deprecated)
-- Flows
-- ViewBinding
 - Dagger Hilt
 - Git
-- Compose
 <br>
 
 ## En proceso de aprendizaje
 
 - Testing
 - Firebase
-- AdMob
 
 <br>
 
