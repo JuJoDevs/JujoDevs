@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Juan José Bonillo 👋</h1>
 </div>
-<img src="https://imgur.com/DE8EANX">
+<img src="https://i.imgur.com/DE8EANX.jpg">
 
 ## Sobre mi
 
