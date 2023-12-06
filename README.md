@@ -19,12 +19,12 @@
 - Room
 - Retrofit
 - Dagger Hilt
+- Testing
 - Git
 <br>
 
 ## En proceso de aprendizaje
 
-- Testing
 - Firebase
 
 <br>
