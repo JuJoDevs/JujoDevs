@@ -1,13 +1,13 @@
 <div align="center">
-<h1 align="center">Hola, soy Juan José Bonillo 👋</h1>
+<h1 align="center">Hi, I'm Juan José Bonillo 👋</h1>
 </div>
 <img src="https://i.imgur.com/DE8EANX.jpg">
 
 ## Sobre mi
 
 - 📲 Android Developer (Kotlin)
-- Estudiando todos los días para sacar las mejores apps nativas
-- Con intención de aprender también iOS
+- I'm working every day to achieve the best native applications.
+- I intend to learn iOS too
 <br>
 
 ## Conocimientos a destacar
@@ -23,13 +23,13 @@
 - Git
 <br>
 
-## En proceso de aprendizaje
+## In learning process
 
 - Firebase
 
 <br>
 
-## Otros repositorios
+## Other repositories
 - <a href="https://github.com/JBonilloArray">JBonilloArray</a>
 
 ### ⚙️ &nbsp;GitHub Analytics
