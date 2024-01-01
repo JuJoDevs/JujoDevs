@@ -3,14 +3,14 @@
 </div>
 <img src="https://i.imgur.com/DE8EANX.jpg">
 
-## Sobre mi
+## About me
 
 - 📲 Android Developer (Kotlin)
 - I'm working every day to achieve the best native applications.
 - I intend to learn iOS too
 <br>
 
-## Conocimientos a destacar
+## Important knowledge
 
 - Clean Architecture
 - Android lifecycle
