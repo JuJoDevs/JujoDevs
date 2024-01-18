@@ -26,11 +26,7 @@
 ## In learning process
 
 - Firebase
-
 <br>
-
-## Other repositories
-- <a href="https://github.com/JBonilloArray">JBonilloArray</a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
