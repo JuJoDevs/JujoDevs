@@ -6,26 +6,9 @@
 ## About me
 
 - 📲 Android Developer (Kotlin)
-- I'm working every day to achieve the best native applications.
-- I intend to learn iOS too
-<br>
-
-## Important knowledge
-
-- Clean Architecture
-- Android lifecycle
-- Jetpack Compose
-- MVVM
-- Room
-- Retrofit
-- Dagger Hilt
-- Testing
-- Git
-<br>
-
-## In learning process
-
-- Firebase
+- 👨🏻‍💻 Adept of clean architecture
+- 👷🏻‍♂️ Unit tests, strong code
+- 🤖 AI: My debugging buddy
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
